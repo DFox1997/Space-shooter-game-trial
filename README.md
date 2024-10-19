@@ -13,6 +13,15 @@ This project presents a simple yet fun space shooter game developed using HTML5 
 - **Musical Enemies**: Enemies are represented by musical notes and chords, with chords requiring more hits to destroy.
 - **Interactive Controls**: Player movement and shooting are controlled via the keyboard for an engaging experience.
 
+## Installation
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/space-shooter-game.git
+   ```
+2. **Add Game Assets**:
+   - Ensure all images (`guitar.png`, `note.png`, `chord.png`) are in the same directory as the HTML and JavaScript files.
+3. **Run the Game**:
+   - Open `index.html` in your browser to start the game.
 
 ## Technologies Used
 - **HTML5 Canvas**: Used for rendering the game visuals.
@@ -22,5 +31,4 @@ This project presents a simple yet fun space shooter game developed using HTML5 
 - **Levels**: Add more levels with increasing difficulty.
 - **Power-ups**: Introduce power-ups for the player to enhance gameplay.
 - **Sound Effects**: Add sound effects for shooting and enemy destruction to make the game more immersive.
-
 
